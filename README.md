@@ -1,3 +1,3 @@
 # ArkhamMindsManifold
 
-![Jack Front](/Investigators/The Gunsmith/Jack Locke-1.png)
+![Jack Front](/Investigators/The%20Gunsmith/Jack%20Locke-1.png)
