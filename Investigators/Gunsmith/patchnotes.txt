@@ -1,0 +1,48 @@
+
+Card Changes 09/02/2022:
+Jack Locke - 
+
+-Removed Forced effect regarding defect cards, this has been moved to each individual defect card.
+
+-Marked action ability as once per turn. 
+
+-Cost changed to resources or cards (before was just resources).
+
+-2nd option changed to only shuffle the asset into deck, and now additionally draws a card.
+
+-Moved Upgrade search to elder sign effect. 
+
+Defective Ejector -
+
+- Added Forced effect for discard
+
+-Forced effect now sets the damage of the attack to 0.
+
+-Removed action to clear jam, was redundant given the ability on Jack Locke.
+
+Squib Prone - 
+
+-Added Forced effect for discard
+
+-Reworked ability, both triggers merged into a single skull-based trigger.
+
+Hammer Follow-
+
+-Added Forced effect for discard
+
+-Removed section around unspent actions at end of turn.
+
+
+Single-Set Trigger-
+
+-Forced effect reworded to clarify that it triggers after the enemy engages investigator and that it works when you enter an enemies location.
+
+-Ability now exhausts Single-Set Trigger.
+
+Mobile Workshop-
+
+-Now has the Supply, Tool and Item traits.
+
+The Beast of Locke Estate
+
+-Now has the Monster trait.
